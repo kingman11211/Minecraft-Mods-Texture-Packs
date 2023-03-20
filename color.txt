@@ -1,1 +1,1 @@
-{ "schemaVersion": 1, "label": "is it monday", "message": "yes", "color": "blue" }
+{ "schemaVersion": 1, "label": "DOWNLOAD", "message": "MODS.ZIP", "color": "blue" }
