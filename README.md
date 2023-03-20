@@ -1,1 +1,1 @@
-# Minecraft-Mods-Texture-Packs
+# Minecraft Mod/Texture Packs
